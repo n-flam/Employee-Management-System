@@ -39,7 +39,7 @@ So that I can organize and plan my business
   * Update employee roles
 
 # GitHub
-https://github.com/n-flam/Workout-Tracker
+https://github.com/n-flam/Employee-Management-System
 
 # Google-Drive-Demo
 https://drive.google.com/file/d/1AvoyRLUE-g_Dtjw1A-qbFLq1oRARaxH0/view?usp=sharing
