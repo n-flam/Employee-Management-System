@@ -1,33 +1,3 @@
-Skip to content
-Search or jump to…
-
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@n-flam 
-marcojansen-gmx
-/
-Employee_tracking_tool
-1
-00
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Employee_tracking_tool/index.js /
-@marcojansen-gmx
-marcojansen-gmx all employeeOperations bugfixed
-Latest commit 6a1d2a7 on 17 Feb
- History
- 1 contributor
-39 lines (33 sloc)  1.37 KB
-  
 const selectTask = require("./lib/inquirer-helpers");
 const {addEmployee, viewEmployees, deleteEmployee, updateEmployee} = require("./lib/employeeOperations");
 const {addRole, viewRoles, deleteRole, updateRole} = require("./lib/roleOperations");
@@ -67,16 +37,3 @@ const employeeOperations = {
   };
 
   baseSelection();
-© 2021 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-Loading complete
