@@ -46,5 +46,5 @@ https://drive.google.com/file/d/1AvoyRLUE-g_Dtjw1A-qbFLq1oRARaxH0/view?usp=shari
 
 
 # Mock-Up
-![Alt text](https://dontforgetmee)
+![Alt text](https://github.com/n-flam/Employee-Management-System/blob/master/assets/mockup.png)
 
